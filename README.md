@@ -1,16 +1,14 @@
-## Hi there 👋
+# こんにちは！
 
-<!--
-**dokaiyuki204/dokaiyuki204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+国立大学で情報科学を学ぶ学部3年生です。
 
-Here are some ideas to get you started:
+## 自己紹介
+- 🎓 国立大学 情報系学部3年
+- 🌐 サークルでのWebサイト制作
+- 💻 大学の授業でWebサイトを共同開発
+- 🤖 研究室ではAI技術の研究に取り組む予定
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 興味のある分野
+- Web開発
+- 人工知能（AI）
+- ソフトウェア開発
